@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d436a83a4d5da2c4388061ef103d31ad, type: 3}
+  m_Name: Recipe Seabreeze
+  m_EditorClassIdentifier: 
+  _id: 3200017
+  _name: Seabreeze Recipe
+  _discription: "\uC2DC\uBE0C\uB9AC\uC988"
+  _price: 0
+  _prefab: {fileID: 0}
+  _mesh: {fileID: 0}
+  _material: {fileID: 0}
+  _previewTexture: {fileID: 0}
+  data:
+  - itemData: {fileID: 11400000, guid: 0e1602adf6eaa244a9106b05789663f2, type: 2}
+    modifier: 1
+    Capacity: 8
+  - itemData: {fileID: 11400000, guid: ef14e514de2eaab45906c0dc290ab2d5, type: 2}
+    modifier: 1
+    Capacity: 45
+  - itemData: {fileID: 11400000, guid: c819733c4ad8b46429e83aa729d99a1c, type: 2}
+    modifier: 1
+    Capacity: 90
+  - itemData: {fileID: 11400000, guid: 34a5dd8d75c10524a9e191f7357ef0c5, type: 2}
+    modifier: 1
+    Capacity: 15
+  - itemData: {fileID: 11400000, guid: 6e2bcf5957eb0ce42b82647d460281ae, type: 2}
+    modifier: 0
+    Capacity: 1
+  glass: {fileID: 0}

@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7609915011793119824
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1849351742, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: height
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849351742, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: splitSpeed
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849351742, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: bottleneckRadius
+      value: 0.018
+      objectReference: {fileID: 0}
+    - target: {fileID: 546168897993809706, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: ItemDataOrigin
+      value: 
+      objectReference: {fileID: 11400000, guid: 87cc5ae69be5b274d8f25841e8583708, type: 2}
+    - target: {fileID: 1519625932346200664, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519625932346200664, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519625932346200664, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519625932346200664, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519625932346200664, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519625932346200664, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519625932346200664, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519625932346200664, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519625932346200664, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519625932346200664, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519625932346200664, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2543850318960091211, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_Name
+      value: Black Russian
+      objectReference: {fileID: 0}
+    - target: {fileID: 4195550815684687313, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300000, guid: 7179ffece8c5ebc488015a168a7c89d5, type: 2}
+    - target: {fileID: 4290243747654017780, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: setVolume
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290243747654017780, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: liquidColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290243747654017780, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: liquidColor.b
+      value: 0.03137255
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290243747654017780, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: liquidColor.g
+      value: 0.12941177
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290243747654017780, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: liquidColor.r
+      value: 0.27058825
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290243747654017780, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: fillAmountPercent
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5176330910244830806, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300000, guid: 891ac821a8f1852479ca94a749d93230, type: 2}
+    - target: {fileID: 6194978228768020153, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: ItemDataOrigin
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7472659616968141560, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: volume
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 7472659616968141560, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: capacity
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7634469175278025645, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8479694515570843939, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8479694515570843939, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 411255304735829883, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+    - {fileID: 7712162963885550925, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+    - {fileID: 8513537317818712450, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 1b6c83a76d20fda4d80e72f62fda8ecf, type: 3}

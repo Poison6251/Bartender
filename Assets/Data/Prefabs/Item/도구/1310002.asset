@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 253d5f62d48601d4392071fc85572a56, type: 3}
+  m_Name: 1310002
+  m_EditorClassIdentifier: 
+  _id: 1310002
+  _name: Cobbler Shaker Cap
+  _discription: "\uCF54\uBE14\uB7EC \uC250\uC774\uCEE4 \uCEA1"
+  _price: 0
+  _prefab: {fileID: 3700870020387968525, guid: 20a9b4b63062fcd4e86b646540d93d27, type: 3}
+  _mesh: {fileID: 0}
+  _material: {fileID: 0}
+  _previewTexture: {fileID: 0}

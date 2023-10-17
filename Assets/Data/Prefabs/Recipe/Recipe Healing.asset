@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d436a83a4d5da2c4388061ef103d31ad, type: 3}
+  m_Name: Recipe Healing
+  m_EditorClassIdentifier: 
+  _id: 3200031
+  _name: Healing Recipe
+  _discription: "\uD790\uB9C1"
+  _price: 0
+  _prefab: {fileID: 0}
+  _mesh: {fileID: 0}
+  _material: {fileID: 0}
+  _previewTexture: {fileID: 0}
+  data:
+  - itemData: {fileID: 11400000, guid: 0e1602adf6eaa244a9106b05789663f2, type: 2}
+    modifier: 2
+    Capacity: 8
+  - itemData: {fileID: 11400000, guid: 3d69ab219b774214ca927d9c135d3d3b, type: 2}
+    modifier: 2
+    Capacity: 45
+  - itemData: {fileID: 11400000, guid: 3ee9c6eed55d6784288bf883bc9ff80b, type: 2}
+    modifier: 2
+    Capacity: 10
+  - itemData: {fileID: 11400000, guid: 4b865b3ae21356c41908f2c6fa360724, type: 2}
+    modifier: 2
+    Capacity: 10
+  - itemData: {fileID: 11400000, guid: b0f5c9498696d8047aebf6e72a47b535, type: 2}
+    modifier: 2
+    Capacity: 30
+  - itemData: {fileID: 11400000, guid: 00c78afdbc94c9940b99218417b72f7f, type: 2}
+    modifier: 0
+    Capacity: 1
+  glass: {fileID: 8584546311967995533, guid: d0ee5dcda0430724a863a7c98a74eb57, type: 3}

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d436a83a4d5da2c4388061ef103d31ad, type: 3}
+  m_Name: Recipe Virgin Fruit Punch
+  m_EditorClassIdentifier: 
+  _id: 3200038
+  _name: Virgin Fruit Punch Recipe
+  _discription: "\uBC84\uC9C4 \uD504\uB8E8\uD2B8 \uD380\uCE58"
+  _price: 0
+  _prefab: {fileID: 0}
+  _mesh: {fileID: 0}
+  _material: {fileID: 0}
+  _previewTexture: {fileID: 0}
+  data:
+  - itemData: {fileID: 11400000, guid: 7da515fd0ef0ccc4a96f30dcbc5ee7dc, type: 2}
+    modifier: 8
+    Capacity: 30
+  - itemData: {fileID: 11400000, guid: 65e997e9be63673448edeb253df717ac, type: 2}
+    modifier: 8
+    Capacity: 30
+  - itemData: {fileID: 11400000, guid: c819733c4ad8b46429e83aa729d99a1c, type: 2}
+    modifier: 8
+    Capacity: 30
+  - itemData: {fileID: 11400000, guid: 34a5dd8d75c10524a9e191f7357ef0c5, type: 2}
+    modifier: 8
+    Capacity: 30
+  - itemData: {fileID: 11400000, guid: 4f635296993cf4c4b986cc514bca8445, type: 2}
+    modifier: 8
+    Capacity: 15
+  - itemData: {fileID: 11400000, guid: cecf2333a698ccd41a9edd6c52036a5e, type: 2}
+    modifier: 8
+    Capacity: 15
+  - itemData: {fileID: 11400000, guid: da72025a18c2e9b4f93ad0f2641b54cb, type: 2}
+    modifier: 0
+    Capacity: 1
+  - itemData: {fileID: 11400000, guid: 33d7b2b2d483def448faa3d3f543cdf5, type: 2}
+    modifier: 0
+    Capacity: 1
+  glass: {fileID: 8584546311967995533, guid: d34e0891f154d854fba8bfb0e65e4e5c, type: 3}

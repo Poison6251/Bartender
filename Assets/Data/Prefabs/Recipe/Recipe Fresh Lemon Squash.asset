@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d436a83a4d5da2c4388061ef103d31ad, type: 3}
+  m_Name: Recipe Fresh Lemon Squash
+  m_EditorClassIdentifier: 
+  _id: 3200037
+  _name: Fresh Lemon Squash Recipe
+  _discription: "\uD504\uB808\uC26C \uB808\uBAAC \uC2A4\uCFFC\uC2DC"
+  _price: 0
+  _prefab: {fileID: 0}
+  _mesh: {fileID: 0}
+  _material: {fileID: 0}
+  _previewTexture: {fileID: 0}
+  data:
+  - itemData: {fileID: 11400000, guid: 1a89aad428fe3834bb6a77d039ca95fb, type: 2}
+    modifier: 1
+    Capacity: 15
+  - itemData: {fileID: 11400000, guid: fe1b75dc979d0b245a6eec285d2d763a, type: 2}
+    modifier: 1
+    Capacity: 2
+  - itemData: {fileID: 11400000, guid: f06728c608108c84897cc5e7543595a7, type: 2}
+    modifier: 1
+    Capacity: 30
+  - itemData: {fileID: 11400000, guid: 0e1602adf6eaa244a9106b05789663f2, type: 2}
+    modifier: 1
+    Capacity: 8
+  - itemData: {fileID: 11400000, guid: f06728c608108c84897cc5e7543595a7, type: 2}
+    modifier: 1
+    Capacity: 105
+  - itemData: {fileID: 11400000, guid: eea599c31d937bd4cabe9a5994537462, type: 2}
+    modifier: 0
+    Capacity: 1
+  glass: {fileID: 0}

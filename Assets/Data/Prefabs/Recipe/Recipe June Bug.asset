@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d436a83a4d5da2c4388061ef103d31ad, type: 3}
+  m_Name: Recipe June Bug
+  m_EditorClassIdentifier: 
+  _id: 3200013
+  _name: June Bug Recipe
+  _discription: "\uC900\uBC85"
+  _price: 0
+  _prefab: {fileID: 6268966721274661856, guid: 86acdf3f7cf510b419e30161a28ccd49, type: 3}
+  _mesh: {fileID: 0}
+  _material: {fileID: 0}
+  _previewTexture: {fileID: 0}
+  data:
+  - itemData: {fileID: 11400000, guid: 0e1602adf6eaa244a9106b05789663f2, type: 2}
+    modifier: 0
+    Capacity: 8
+  - itemData: {fileID: 11400000, guid: 719a9ffc4c918ca4e8746adf76911e5b, type: 2}
+    modifier: 2
+    Capacity: 30
+  - itemData: {fileID: 11400000, guid: 5caf780a1eda6984c8af42d27ec67651, type: 2}
+    modifier: 2
+    Capacity: 15
+  - itemData: {fileID: 11400000, guid: b0f5c9498696d8047aebf6e72a47b535, type: 2}
+    modifier: 2
+    Capacity: 60
+  glass: {fileID: 8584546311967995533, guid: a3df306e29e503a4b8f9720b5274e351, type: 3}

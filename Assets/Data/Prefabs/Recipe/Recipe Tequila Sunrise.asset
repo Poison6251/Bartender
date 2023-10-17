@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d436a83a4d5da2c4388061ef103d31ad, type: 3}
+  m_Name: Recipe Tequila Sunrise
+  m_EditorClassIdentifier: 
+  _id: 3200030
+  _name: Tequila Sunrise Recipe
+  _discription: "\uB370\uD0AC\uB77C \uC120\uB77C\uC774\uC988"
+  _price: 0
+  _prefab: {fileID: 0}
+  _mesh: {fileID: 0}
+  _material: {fileID: 0}
+  _previewTexture: {fileID: 0}
+  data:
+  - itemData: {fileID: 11400000, guid: 0e1602adf6eaa244a9106b05789663f2, type: 2}
+    modifier: 1
+    Capacity: 8
+  - itemData: {fileID: 11400000, guid: 110c47f720f3d964c84f154eb60296d2, type: 2}
+    modifier: 1
+    Capacity: 45
+  - itemData: {fileID: 11400000, guid: 7da515fd0ef0ccc4a96f30dcbc5ee7dc, type: 2}
+    modifier: 1
+    Capacity: 90
+  - itemData: {fileID: 11400000, guid: cecf2333a698ccd41a9edd6c52036a5e, type: 2}
+    modifier: 4
+    Capacity: 15
+  glass: {fileID: 8584546311967995533, guid: d34e0891f154d854fba8bfb0e65e4e5c, type: 3}

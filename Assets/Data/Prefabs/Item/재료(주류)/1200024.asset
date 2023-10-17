@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de9417533f8a10f47b09081d820b7789, type: 3}
+  m_Name: 1200024
+  m_EditorClassIdentifier: 
+  _id: 1200024
+  _name: Vodka
+  _discription: "\uBCF4\uB4DC\uCE74"
+  _price: 30000
+  _prefab: {fileID: 2857085728053606380, guid: 7c7b5889c8811304fb030ee7f34f2aee, type: 3}
+  _mesh: {fileID: 4300000, guid: 2fb0bcaaad58c8b4b861f9e588f3a8be, type: 2}
+  _material: {fileID: 2100000, guid: 5a1c20abd1fb22440b328522d8f1d084, type: 2}
+  _previewTexture: {fileID: 0}
+  _glass: 0
+  _liquidColor: {r: 0, g: 0, b: 0, a: 0}
+  _breakingPrefab: {fileID: 0}
+  _labelMesh: {fileID: 4300000, guid: 18f95e5985f1b4f46b189e5f0e41c3cb, type: 2}
+  _labelMaterial: {fileID: 2100000, guid: a2f20379ce74aa44eb8c440137111a41, type: 2}
+  _liquidMesh: {fileID: 4300000, guid: c750deea224ee2d45a6816b37b2e14de, type: 2}
+  _ml: 700

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d436a83a4d5da2c4388061ef103d31ad, type: 3}
+  m_Name: Recipe Brandy Alexander
+  m_EditorClassIdentifier: 
+  _id: 3200004
+  _name: Brandy Alexander Recipe
+  _discription: "\uBE0C\uB79C\uB514 \uC54C\uB809\uC0B0\uB354"
+  _price: 0
+  _prefab: {fileID: 0}
+  _mesh: {fileID: 0}
+  _material: {fileID: 0}
+  _previewTexture: {fileID: 0}
+  data:
+  - itemData: {fileID: 11400000, guid: 0e1602adf6eaa244a9106b05789663f2, type: 2}
+    modifier: 2
+    Capacity: 8
+  - itemData: {fileID: 11400000, guid: 3a0376d378007dc42915ee08648f210e, type: 2}
+    modifier: 2
+    Capacity: 22
+  - itemData: {fileID: 11400000, guid: 4edc193dd09840340a5366105e85ef15, type: 2}
+    modifier: 2
+    Capacity: 22
+  - itemData: {fileID: 11400000, guid: 299cccb0ce6c7fd4da38af40e6fb970d, type: 2}
+    modifier: 2
+    Capacity: 22
+  - itemData: {fileID: 11400000, guid: 12d82ba64feb8404bbb5c2d35b4e3877, type: 2}
+    modifier: 0
+    Capacity: 1
+  glass: {fileID: 8584546311967995533, guid: d0ee5dcda0430724a863a7c98a74eb57, type: 3}

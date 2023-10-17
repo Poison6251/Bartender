@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d436a83a4d5da2c4388061ef103d31ad, type: 3}
+  m_Name: Recipe Blue Hawaiian
+  m_EditorClassIdentifier: 
+  _id: 3200028
+  _name: Blue Hawaiian Recipe
+  _discription: "\uBE14\uB8E8 \uD558\uC640\uC774\uC548"
+  _price: 0
+  _prefab: {fileID: 0}
+  _mesh: {fileID: 0}
+  _material: {fileID: 0}
+  _previewTexture: {fileID: 0}
+  data:
+  - itemData: {fileID: 11400000, guid: 299cccb0ce6c7fd4da38af40e6fb970d, type: 2}
+    modifier: 8
+    Capacity: 30
+  - itemData: {fileID: 11400000, guid: 166153a27fa33174ea7e66d8cb6c7255, type: 2}
+    modifier: 8
+    Capacity: 30
+  - itemData: {fileID: 11400000, guid: b273d0f8f9f42814db9e4cf071e50f37, type: 2}
+    modifier: 8
+    Capacity: 30
+  - itemData: {fileID: 11400000, guid: 65e997e9be63673448edeb253df717ac, type: 2}
+    modifier: 8
+    Capacity: 75
+  - itemData: {fileID: 11400000, guid: da72025a18c2e9b4f93ad0f2641b54cb, type: 2}
+    modifier: 0
+    Capacity: 1
+  - itemData: {fileID: 11400000, guid: 33d7b2b2d483def448faa3d3f543cdf5, type: 2}
+    modifier: 0
+    Capacity: 1
+  glass: {fileID: 8584546311967995533, guid: d34e0891f154d854fba8bfb0e65e4e5c, type: 3}

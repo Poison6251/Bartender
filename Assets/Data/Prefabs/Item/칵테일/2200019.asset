@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de9417533f8a10f47b09081d820b7789, type: 3}
+  m_Name: 2200019
+  m_EditorClassIdentifier: 
+  _id: 2200019
+  _name: Negroni
+  _discription: "\uB124\uADF8\uB85C\uB2C8"
+  _price: 8500
+  _prefab: {fileID: 0}
+  _mesh: {fileID: 0}
+  _material: {fileID: 0}
+  _previewTexture: {fileID: 0}
+  _glass: 0
+  _liquidColor: {r: 0, g: 0, b: 0, a: 1}
+  _breakingPrefab: {fileID: 0}
+  _labelMesh: {fileID: 0}
+  _labelMaterial: {fileID: 0}
+  _liquidMesh: {fileID: 0}
+  _ml: 0
